@@ -1,0 +1,11 @@
+{
+    "_comment1" : "choose any value for searching",
+    "searchBar" : "software engineer",
+    "_comment3" : "choose date posted from below values",
+    "_comment4" : "Last 24 hours, Last 3 days, Last 7 days, Last 14 days",
+    "datePosted" : "Last 3 days",
+    "_comment5" : "choose from Remote and Temporarily Remote",
+    "isRemote" : "Remote",
+    "_comment6" : "choose from Full-Time, Contract, Temporary, Part-Time, Fresher, Internship",
+    "jobType" : "Full-Time"
+}
