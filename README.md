@@ -1,5 +1,5 @@
 # job-search-made-easy
- Automation Project using Puppeteer and NodeJs library made during hackathon conducted by Pepdoding Pvt Ltd
+ Automation Project using Puppeteer and NodeJs library made during hackathon conducted by Pepcoding Education Pvt Ltd
  
  Due to COVID-19 many people have lost their job It is hard to find a new job in a market where job opportunities are limited and unemployment rates are rising.
 
